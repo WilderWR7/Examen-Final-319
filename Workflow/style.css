@@ -1,0 +1,139 @@
+.center {
+    text-align: center;
+}
+.w-100 {
+    width: 100%;
+}
+.wi-50 {
+    margin: 0 auto;
+    max-width: 100%;
+}
+.m-0 {
+    margin: 0;
+}
+.mr-3 {
+    margin-right: 3;
+}
+.pb-3{
+    padding-bottom: 15px;
+}
+.mt-3{
+    margin-top: 3rem;
+}
+body {
+    background-repeat: no-repeat;
+    background-color: #2b2a33;
+    /* background-image: radial-gradient(circle at 50% -20.71%, #ffffe0 0, #feffdc 8.33%, #f3ffd7 16.67%, #e6ffd3 25%, #d8fbcf 33.33%, #c7f7cc 41.67%, #b5f2c9 50%, #a1edc8 58.33%, #8de9c9 66.67%, #79e4cc 75%, #63e0d0 83.33%, #4bddd6 91.67%, #2fd9dd 100%); */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 50px 200px;
+}
+.pdfview {
+    width: 100%;
+    height: 800px;
+}
+.container-center {
+    display: flex;
+    height: 80%;
+    justify-content: center;
+}
+.p-black {
+    margin-top: 15px;
+    color: black;
+}
+.flex {
+    display: flex;
+}
+.f-center {
+    margin: 0 auto;
+}
+.f-right {
+    display: flex;
+    justify-content: right;
+} 
+
+.verde {
+    background-color: rgb(32, 240, 32)!important;
+    color: white;
+}
+.atras {
+    background-color: #2da6e6;
+    color: white;
+}
+.btn-green {
+    background-color: green;
+    color: white;
+}
+.f-right {
+    display: flex;
+    justify-content: right;
+}
+.d-f {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.linkHome {
+    background-color: black!important;
+    margin: 2rem 3rem;
+    padding: 1rem 2rem;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+}
+.verdedos {
+    background-color: #008F39;
+    color: white;
+    font-weight: bold;
+}
+
+.table-header {
+    font-weight: bold;
+    font-size: 20px;
+    width: 200px;
+    text-align: center;
+}
+.tables {
+    text-align: center;
+}
+.a-center {
+    display: flex;
+}
+.b-white {
+    background-color: white;
+}
+.centrar-contenido {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.btn-action {
+    background-color: red;
+}
+.btn-action:active { 
+    background-color: white;
+} 
+.bg-white {
+    background-color: white;
+    padding: 5rem;
+}
+.gird-3 {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 100%;
+    column-gap: 2rem;
+}
+.d-flex {
+    display: flex;
+    width: 100%;
+}
+.container-table {
+    background-color: white;
+    padding: 2rem 3rem;
+}
+.header-doc{
+    display: flex;
+    justify-content: space-between;
+} 
